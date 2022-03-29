@@ -3,15 +3,15 @@ owner: developerciar # Your GitHub organization or username, where this reposito
 repo: st_apps # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: Ceres
+    url: http://erp.clusterciar.com.ar
+  - name: N1
+    url: http://n1.clusterciar.com.ar
+  - name: N2
+    url: http://n2.clusterciar.com.ar
+  - name: wa
+    url: http://ws.clusterciar.com.ar
+    
 status-website:
   baseUrl: /st_apps # where "repo" is your repository name
   name: Clusterciar Apps
