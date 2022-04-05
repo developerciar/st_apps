@@ -4,19 +4,19 @@
     "url": "http://erp.clusterciar.com.ar",
     "icon": "https://favicons.githubusercontent.com/erp.clusterciar.com.ar",
     "slug": "ceres",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 986,
-    "timeDay": 1074,
-    "timeWeek": 986,
-    "timeMonth": 986,
-    "timeYear": 986,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 995,
+    "timeDay": 1072,
+    "timeWeek": 995,
+    "timeMonth": 995,
+    "timeYear": 995,
     "dailyMinutesDown": {
-      "2022-04-05": 1
+      "2022-04-05": 24
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "http://n1.clusterciar.com.ar",
     "icon": "https://favicons.githubusercontent.com/n1.clusterciar.com.ar",
     "slug": "n1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 351,
-    "timeWeek": 384,
-    "timeMonth": 384,
-    "timeYear": 384,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 389,
+    "timeDay": 393,
+    "timeWeek": 389,
+    "timeMonth": 389,
+    "timeYear": 389,
     "dailyMinutesDown": {
-      "2022-04-05": 0
+      "2022-04-05": 23
     }
   },
   {
