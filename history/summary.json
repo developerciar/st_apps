@@ -40,27 +40,29 @@
     "url": "http://n2.clusterciar.com.ar",
     "icon": "https://favicons.githubusercontent.com/n2.clusterciar.com.ar",
     "slug": "n2",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 650,
     "timeDay": 791,
     "timeWeek": 650,
     "timeMonth": 650,
     "timeYear": 650,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-05": 1
+    }
   },
   {
     "name": "wa",
     "url": "http://ws.clusterciar.com.ar",
     "icon": "https://favicons.githubusercontent.com/ws.clusterciar.com.ar",
     "slug": "wa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +71,8 @@
     "timeWeek": 899,
     "timeMonth": 899,
     "timeYear": 899,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-05": 0
+    }
   }
 ]
