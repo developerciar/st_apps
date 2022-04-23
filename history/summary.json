@@ -4,10 +4,10 @@
     "url": "http://erp.clusterciar.com.ar",
     "icon": "https://favicons.githubusercontent.com/erp.clusterciar.com.ar",
     "slug": "ceres",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
     "time": 1079,
@@ -16,6 +16,7 @@
     "timeMonth": 1079,
     "timeYear": 1079,
     "dailyMinutesDown": {
+      "2022-04-23": 1,
       "2022-04-08": 58,
       "2022-04-05": 24
     }
@@ -26,18 +27,18 @@
     "icon": "https://favicons.githubusercontent.com/n1.clusterciar.com.ar",
     "slug": "n1",
     "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptime": "99.67%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 407,
     "timeDay": 484,
     "timeWeek": 443,
     "timeMonth": 407,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2022-04-23": 0,
+      "2022-04-23": 40,
       "2022-04-08": 57,
       "2022-04-05": 23
     }
