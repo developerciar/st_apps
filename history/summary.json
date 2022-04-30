@@ -4,10 +4,10 @@
     "url": "http://erp.clusterciar.com.ar",
     "icon": "https://favicons.githubusercontent.com/erp.clusterciar.com.ar",
     "slug": "ceres",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.70%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.76%",
     "time": 1058,
@@ -16,6 +16,7 @@
     "timeMonth": 1064,
     "timeYear": 1058,
     "dailyMinutesDown": {
+      "2022-04-30": 2,
       "2022-04-26": 28,
       "2022-04-08": 58,
       "2022-04-05": 24
@@ -26,11 +27,11 @@
     "url": "http://n1.clusterciar.com.ar",
     "icon": "https://favicons.githubusercontent.com/n1.clusterciar.com.ar",
     "slug": "n1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.61%",
     "time": 459,
     "timeDay": 393,
@@ -38,6 +39,7 @@
     "timeMonth": 463,
     "timeYear": 459,
     "dailyMinutesDown": {
+      "2022-04-30": 1,
       "2022-04-26": 28,
       "2022-04-23": 69,
       "2022-04-08": 57,
@@ -49,10 +51,10 @@
     "url": "http://n2.clusterciar.com.ar",
     "icon": "https://favicons.githubusercontent.com/n2.clusterciar.com.ar",
     "slug": "n2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.85%",
     "time": 870,
@@ -61,6 +63,7 @@
     "timeMonth": 884,
     "timeYear": 870,
     "dailyMinutesDown": {
+      "2022-04-30": 1,
       "2022-04-08": 29,
       "2022-04-05": 40
     }
@@ -70,7 +73,7 @@
     "url": "http://ws.clusterciar.com.ar",
     "icon": "https://favicons.githubusercontent.com/ws.clusterciar.com.ar",
     "slug": "wa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
@@ -82,6 +85,7 @@
     "timeMonth": 939,
     "timeYear": 941,
     "dailyMinutesDown": {
+      "2022-04-30": 0,
       "2022-04-23": 16,
       "2022-04-05": 39
     }
