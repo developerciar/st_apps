@@ -1,7 +1,7 @@
 url: http://erp.clusterciar.com.ar
-status: down
-code: 503
-responseTime: 1034
-lastUpdated: 2023-04-13T02:09:09.812Z
+status: up
+code: 200
+responseTime: 1211
+lastUpdated: 2023-04-13T12:41:03.637Z
 startTime: Tue Mar 29 2022 20:21:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
