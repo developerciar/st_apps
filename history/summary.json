@@ -14,7 +14,7 @@
     "timeDay": 910,
     "timeWeek": 1329,
     "timeMonth": 1189,
-    "timeYear": 1344,
+    "timeYear": 1345,
     "dailyMinutesDown": {
       "2023-04-17": 26,
       "2023-04-13": 632,
@@ -50,8 +50,7 @@
       "2022-07-03": 25,
       "2022-06-27": 30,
       "2022-06-25": 22,
-      "2022-06-14": 271,
-      "2022-06-02": 33
+      "2022-06-14": 271
     }
   },
   {
@@ -68,8 +67,8 @@
     "time": 683,
     "timeDay": 577,
     "timeWeek": 538,
-    "timeMonth": 600,
-    "timeYear": 728,
+    "timeMonth": 596,
+    "timeYear": 729,
     "dailyMinutesDown": {
       "2023-04-13": 632,
       "2023-03-27": 29,
@@ -107,8 +106,7 @@
       "2022-07-03": 25,
       "2022-06-27": 30,
       "2022-06-25": 22,
-      "2022-06-14": 269,
-      "2022-06-02": 32
+      "2022-06-14": 269
     }
   },
   {
@@ -118,17 +116,16 @@
     "slug": "n2",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.65%",
     "time": 895,
     "timeDay": 632,
     "timeWeek": 1255,
-    "timeMonth": 836,
-    "timeYear": 903,
+    "timeMonth": 838,
+    "timeYear": 904,
     "dailyMinutesDown": {
-      "2023-06-01": 9,
       "2023-05-16": 120,
       "2023-05-15": 3,
       "2023-04-19": 21,
@@ -162,7 +159,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ws.clusterciar.com.ar.ico",
     "slug": "wa",
     "status": "up",
-    "uptime": "95.89%",
+    "uptime": "95.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
@@ -170,8 +167,8 @@
     "time": 1112,
     "timeDay": 1160,
     "timeWeek": 1145,
-    "timeMonth": 1142,
-    "timeYear": 1143,
+    "timeMonth": 1151,
+    "timeYear": 1144,
     "dailyMinutesDown": {
       "2023-05-16": 120,
       "2023-05-15": 2,
