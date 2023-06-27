@@ -1,7 +1,7 @@
 url: http://n1.clusterciar.com.ar
-status: down
-code: 503
-responseTime: 820
-lastUpdated: 2023-06-27T21:23:35.401Z
+status: up
+code: 200
+responseTime: 718
+lastUpdated: 2023-06-27T22:09:47.325Z
 startTime: Tue Mar 29 2022 20:21:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
