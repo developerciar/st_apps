@@ -1,7 +1,7 @@
 url: http://ws.clusterciar.com.ar
-status: up
-code: 200
-responseTime: 1323
-lastUpdated: 2023-08-17T15:30:17.354Z
+status: down
+code: 503
+responseTime: 823
+lastUpdated: 2023-08-17T15:43:16.691Z
 startTime: Tue Mar 29 2022 20:21:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
