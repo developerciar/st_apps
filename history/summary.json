@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/erp.clusterciar.com.ar.ico",
     "slug": "ceres",
     "status": "down",
-    "uptime": "59.88%",
+    "uptime": "59.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "10.51%",
-    "time": 1215,
+    "uptimeYear": "10.24%",
+    "time": 1216,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1230,
+    "timeYear": 1231,
     "dailyMinutesDown": {
-      "2024-07-05": 66,
+      "2024-07-06": 64,
+      "2024-07-05": 1440,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
@@ -348,8 +349,7 @@
       "2023-07-18": 61,
       "2023-07-10": 706,
       "2023-07-09": 1440,
-      "2023-07-08": 1440,
-      "2023-07-07": 178
+      "2023-07-08": 1440
     }
   },
   {
@@ -358,18 +358,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/n1.clusterciar.com.ar.ico",
     "slug": "n1",
     "status": "down",
-    "uptime": "59.19%",
+    "uptime": "59.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "10.51%",
-    "time": 739,
+    "uptimeYear": "10.24%",
+    "time": 738,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 677,
+    "timeYear": 676,
     "dailyMinutesDown": {
-      "2024-07-05": 66,
+      "2024-07-06": 64,
+      "2024-07-05": 1440,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
@@ -701,8 +702,7 @@
       "2023-07-18": 49,
       "2023-07-10": 706,
       "2023-07-09": 1440,
-      "2023-07-08": 1440,
-      "2023-07-07": 178
+      "2023-07-08": 1440
     }
   },
   {
@@ -711,18 +711,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/n2.clusterciar.com.ar.ico",
     "slug": "n2",
     "status": "down",
-    "uptime": "60.44%",
+    "uptime": "60.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "10.70%",
+    "uptimeYear": "10.43%",
     "time": 754,
-    "timeDay": 550,
-    "timeWeek": 680,
-    "timeMonth": 690,
+    "timeDay": 606,
+    "timeWeek": 662,
+    "timeMonth": 689,
     "timeYear": 750,
     "dailyMinutesDown": {
-      "2024-07-05": 66,
+      "2024-07-06": 64,
+      "2024-07-05": 1440,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
@@ -1052,8 +1053,7 @@
       "2023-07-12": 38,
       "2023-07-10": 706,
       "2023-07-09": 1440,
-      "2023-07-08": 1440,
-      "2023-07-07": 178
+      "2023-07-08": 1440
     }
   },
   {
@@ -1062,18 +1062,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ws.clusterciar.com.ar.ico",
     "slug": "wa",
     "status": "down",
-    "uptime": "58.57%",
+    "uptime": "58.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "10.91%",
+    "uptimeYear": "10.64%",
     "time": 1092,
-    "timeDay": 695,
-    "timeWeek": 1045,
-    "timeMonth": 1019,
+    "timeDay": 1074,
+    "timeWeek": 1027,
+    "timeMonth": 1033,
     "timeYear": 1074,
     "dailyMinutesDown": {
-      "2024-07-05": 66,
+      "2024-07-06": 64,
+      "2024-07-05": 1440,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
@@ -1403,8 +1404,7 @@
       "2023-07-12": 38,
       "2023-07-10": 693,
       "2023-07-09": 1440,
-      "2023-07-08": 1440,
-      "2023-07-07": 192
+      "2023-07-08": 1440
     }
   }
 ]
