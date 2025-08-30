@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/erp.clusterciar.com.ar.ico",
     "slug": "ceres",
     "status": "down",
-    "uptime": "39.73%",
+    "uptime": "39.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1136,
+    "time": 1139,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1200,
     "dailyMinutesDown": {
-      "2025-08-29": 84,
+      "2025-08-30": 80,
+      "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
@@ -379,8 +380,7 @@
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
-      "2024-08-31": 1440,
-      "2024-08-30": 1440
+      "2024-08-31": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/n1.clusterciar.com.ar.ico",
     "slug": "n1",
     "status": "down",
-    "uptime": "39.27%",
+    "uptime": "39.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 652,
+    "time": 653,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2025-08-29": 84,
+      "2025-08-30": 80,
+      "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
@@ -763,8 +764,7 @@
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
-      "2024-08-31": 1440,
-      "2024-08-30": 1440
+      "2024-08-31": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/n2.clusterciar.com.ar.ico",
     "slug": "n2",
     "status": "down",
-    "uptime": "40.10%",
+    "uptime": "40.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 733,
     "timeDay": 0,
-    "timeWeek": 771,
-    "timeMonth": 760,
+    "timeWeek": 820,
+    "timeMonth": 757,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2025-08-29": 84,
+      "2025-08-30": 80,
+      "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
@@ -1147,8 +1148,7 @@
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
-      "2024-08-31": 1440,
-      "2024-08-30": 1440
+      "2024-08-31": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ws.clusterciar.com.ar.ico",
     "slug": "wa",
     "status": "down",
-    "uptime": "38.86%",
+    "uptime": "38.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 1059,
     "timeDay": 0,
-    "timeWeek": 1015,
-    "timeMonth": 1117,
-    "timeYear": 1060,
+    "timeWeek": 1029,
+    "timeMonth": 1125,
+    "timeYear": 1059,
     "dailyMinutesDown": {
-      "2025-08-29": 84,
+      "2025-08-30": 80,
+      "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
@@ -1531,8 +1532,7 @@
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
-      "2024-08-31": 1440,
-      "2024-08-30": 1440
+      "2024-08-31": 1440
     }
   }
 ]
